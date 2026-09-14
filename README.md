@@ -7,6 +7,8 @@ Oleh: Christian Arga Capah
 <img width="1279" height="652" alt="image" src="https://github.com/user-attachments/assets/a7bbcee0-6fa3-4608-9f60-ca828ac09d0e" />
 <img width="1279" height="699" alt="image" src="https://github.com/user-attachments/assets/422367cb-576c-4da5-9881-eedd5470347d" />
 <img width="1279" height="695" alt="image" src="https://github.com/user-attachments/assets/62e90ef5-46b0-4cb8-9c08-dde7ecb17562" />
+<img width="1279" height="696" alt="image" src="https://github.com/user-attachments/assets/a460783e-d4d7-411b-9818-7462f0fb9afd" />
+<img width="1279" height="697" alt="image" src="https://github.com/user-attachments/assets/1d72b350-5671-40bf-9419-f0a99470baae" />
 
 
 ## Panduan Import Database (Cara Menjalankan)
